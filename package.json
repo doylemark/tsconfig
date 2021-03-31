@@ -1,0 +1,11 @@
+{
+  "name": "@doylemark/tsconfig",
+  "version": "1.0.0",
+  "description": "my tsconfig",
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "author": "Mark Doyle",
+  "license": "MIT"
+}
